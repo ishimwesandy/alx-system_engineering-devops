@@ -1,0 +1,2 @@
+#!/bin/bash
+mdkir chmod 751 my_dir
