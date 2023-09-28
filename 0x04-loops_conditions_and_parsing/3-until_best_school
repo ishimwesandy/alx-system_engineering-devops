@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Using a until loop, displays "Best School" ten times.
+
+c=0
+
+until [ $c -eq 10 ]
+do
+  echo "Best School"
+  (( c++ ))
+done
