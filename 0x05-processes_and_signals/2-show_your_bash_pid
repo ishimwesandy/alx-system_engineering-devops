@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
+# Lists  BASH processes
+# shellcheck
+
 ps afux | grep bash
